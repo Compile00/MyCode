@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb61eeff-eaa6-4fb1-8e6c-1016693c16a8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="20gidDytkarzCibgg9dBh9eMRqm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../最大子段和问题" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="算法实验" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb61eeff-eaa6-4fb1-8e6c-1016693c16a8" name="Default Changelist" comment="" />
+      <created>1636454758520</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636454758520</updated>
+      <workItem from="1636454764558" duration="7942000" />
+      <workItem from="1636472718646" duration="1980000" />
+      <workItem from="1636508157665" duration="2332000" />
+      <workItem from="1637484296587" duration="2535000" />
+      <workItem from="1637677456249" duration="1751000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="323" y="142" key="#Notifications" timestamp="1637677475941">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="323" y="142" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1637677475941" />
+    <state x="511" y="250" key="FileChooserDialogImpl" timestamp="1637679084258">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="511" y="250" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1637679084258" />
+    <state width="934" height="153" key="GridCell.Tab.0.bottom" timestamp="1637511976346">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="934" height="153" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1637511976346" />
+    <state width="934" height="153" key="GridCell.Tab.0.center" timestamp="1637511976346">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="934" height="153" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1637511976346" />
+    <state width="934" height="153" key="GridCell.Tab.0.left" timestamp="1637511976345">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="934" height="153" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1637511976345" />
+    <state width="934" height="153" key="GridCell.Tab.0.right" timestamp="1637511976346">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="934" height="153" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1637511976346" />
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1636475311839">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1636475311839" />
+    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1636475311839">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1636475311839" />
+    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1636475311839">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1636475311839" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1636475311839">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1636475311839" />
+    <state x="411" y="319" key="com.intellij.ide.util.TipDialog" timestamp="1637677481479">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="411" y="319" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1637677481479" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LCSDP$Solution.ic" NAME="Solution Coverage Results" MODIFIED="1636459879576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
